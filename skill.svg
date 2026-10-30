@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title description">
+  <title id="title">Skill</title>
+  <desc id="description">A minimal puzzle piece representing a reusable skill, with the Skill wordmark.</desc>
+  <path d="M68 68h40V52a20 20 0 0 1 40 0v16h40v40h-16a20 20 0 0 0 0 40h16v28H68v-28h16a20 20 0 0 0 0-40H68Z" fill="none" stroke="#36404b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="128" y="228" fill="#36404b" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" letter-spacing="4" text-anchor="middle">Skill</text>
+</svg>

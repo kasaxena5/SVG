@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title description">
+  <title id="title">MCP</title>
+  <desc id="description">Model Context Protocol symbol recreated from the supplied image, with the MCP wordmark.</desc>
+  <g transform="translate(42 8) scale(.36)" fill="none" stroke="#36404b" stroke-width="33" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 222 226 32C253 5 296 12 321 37C349 65 349 103 322 130L178 269"/>
+    <path d="M274 83 136 222C107 251 107 293 135 320C163 347 204 344 230 318L369 176"/>
+    <path d="M322 130C350 102 392 103 419 131C446 158 447 201 419 229L245 403Q234 415 246 428L281 463"/>
+  </g>
+  <text x="128" y="228" fill="#36404b" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" letter-spacing="4" text-anchor="middle">MCP</text>
+</svg>

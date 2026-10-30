@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title description">
+  <title id="title">Trigger</title>
+  <desc id="description">A minimal lightning bolt representing a workflow trigger, with the Trigger wordmark.</desc>
+  <path d="M140 32 76 112h48l-8 64 64-88h-48Z" fill="none" stroke="#36404b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="128" y="228" fill="#36404b" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" letter-spacing="4" text-anchor="middle">Trigger</text>
+</svg>
